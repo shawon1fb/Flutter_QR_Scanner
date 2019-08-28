@@ -3,10 +3,7 @@
 A simple Flutter application to scan QR code.
 
 ## Screenshorts
-![](https://github.com/shawon1fb/Flutter_QR_Scanner/blob/master/git_Image/Screenshot_2019-08-28-23-27-27-303_com.shawon.qr_scanner.png){:height="50%" width="50%"}
-
-![]()
-{:height="50%" width="50%"}
+<img src="https://github.com/shawon1fb/Flutter_QR_Scanner/blob/master/git_Image/Screenshot_2019-08-28-23-27-27-303_com.shawon.qr_scanner.png" width="100" height="100">
 ## Getting Started
 
 This project is a starting point for a Flutter application.
